@@ -7,9 +7,9 @@
 #include <QMainWindow>
 #include <QMenu>
 #include <QToolBar>
-#include <QWebInspector>
-#include <QWebFrame>
-#include <QWebPage>
+#include <QtWebKitWidgets/QWebInspector>
+#include <QtWebKitWidgets/QWebFrame>
+#include <QtWebKitWidgets/QWebPage>
 #include <QtDebug>
 
 #include "fb2dlgs.hpp"

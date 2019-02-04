@@ -3,7 +3,7 @@
 
 #include <QAction>
 #include <QUndoCommand>
-#include <QWebPage>
+#include <QtWebKitWidgets/QWebPage>
 
 class FbStore;
 class FbTextElement;

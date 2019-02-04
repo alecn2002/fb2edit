@@ -5,8 +5,8 @@
 #include <QApplication>
 #include <QVBoxLayout>
 #include <QUndoStack>
-#include <QWebFrame>
-#include <QWebPage>
+#include <QtWebKitWidgets/QWebFrame>
+#include <QtWebKitWidgets/QWebPage>
 #include <QTreeView>
 #include <QUrl>
 

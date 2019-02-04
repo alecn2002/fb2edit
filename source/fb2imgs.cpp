@@ -12,7 +12,7 @@
 #include <QSplitter>
 #include <QUrl>
 #include <QVBoxLayout>
-#include <QWebFrame>
+#include <QtWebKitWidgets/QWebFrame>
 #include <QTabWidget>
 #include <QtDebug>
 

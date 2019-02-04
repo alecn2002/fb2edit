@@ -14,7 +14,7 @@
 #include <QToolButton>
 #include <QTreeView>
 #include <QVBoxLayout>
-#include <QWebView>
+#include <QtWebKitWidgets/QWebView>
 
 class FbTextEdit;
 

@@ -56,6 +56,8 @@ QT += xml
 QT += webkit
 QT += network
 QT += xmlpatterns
+QT += widgets
+QT += webkitwidgets
 
 OTHER_FILES += \
     source/res/style.css \

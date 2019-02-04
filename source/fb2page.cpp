@@ -1,7 +1,7 @@
 #include "fb2page.hpp"
 
 #include <QTimer>
-#include <QWebFrame>
+#include <QtWebKitWidgets/QWebFrame>
 #include <QtDebug>
 
 #include "fb2read.hpp"

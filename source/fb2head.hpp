@@ -8,7 +8,7 @@
 #include <QMap>
 #include <QTreeView>
 #include <QWebElement>
-#include <QWebView>
+#include <QtWebKitWidgets/QWebView>
 
 QT_BEGIN_NAMESPACE
 class QAction;

@@ -7,7 +7,7 @@
 #include <QResizeEvent>
 #include <QTimer>
 #include <QWebElement>
-#include <QWebView>
+#include <QtWebKitWidgets/QWebView>
 
 #include "fb2mode.h"
 #include "fb2imgs.hpp"

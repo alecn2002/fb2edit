@@ -15,8 +15,8 @@
 #include <QLineEdit>
 #include <QTabWidget>
 #include <QToolBar>
-#include <QWebFrame>
-#include <QWebPage>
+#include <QtWebKitWidgets/QWebFrame>
+#include <QtWebKitWidgets/QWebPage>
 
 //---------------------------------------------------------------------------
 //  FbCodeFindDlg

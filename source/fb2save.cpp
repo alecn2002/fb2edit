@@ -19,8 +19,8 @@
 #include <QNetworkRequest>
 #include <QScopedPointer>
 #include <QTextCodec>
-#include <QWebFrame>
-#include <QWebPage>
+#include <QtWebKitWidgets/QWebFrame>
+#include <QtWebKitWidgets/QWebPage>
 #include <QtDebug>
 
 //---------------------------------------------------------------------------

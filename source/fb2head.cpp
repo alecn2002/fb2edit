@@ -10,9 +10,9 @@
 #include <QLabel>
 #include <QLineEdit>
 #include <QToolBar>
-#include <QWebFrame>
-#include <QWebPage>
-#include <QWebView>
+#include <QtWebKitWidgets/QWebFrame>
+#include <QtWebKitWidgets/QWebPage>
+#include <QtWebKitWidgets/QWebView>
 #include <QItemDelegate>
 #include <QTreeView>
 

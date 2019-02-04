@@ -7,9 +7,9 @@
 #include <QLineEdit>
 #include <QSplitter>
 #include <QToolBar>
-#include <QWebFrame>
-#include <QWebPage>
-#include <QWebView>
+#include <QtWebKitWidgets/QWebFrame>
+#include <QtWebKitWidgets/QWebPage>
+#include <QtWebKitWidgets/QWebView>
 
 #include "fb2list.hpp"
 #include "fb2page.hpp"

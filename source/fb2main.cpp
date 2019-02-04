@@ -3,7 +3,10 @@
 #include <QtGui>
 #include <QtDebug>
 #include <QTreeView>
-#include <QWebFrame>
+#include <QtWebKitWidgets/QWebFrame>
+#include <QMessageBox>
+#include <QMenuBar>
+#include <QStatusBar>
 
 #include "fb2app.hpp"
 #include "fb2logs.hpp"
